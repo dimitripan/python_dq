@@ -1,0 +1,56 @@
+News ------------------------------
+
+Hello dier reader
+something happened on main street
+Batumi, 29/12/2023, 01:19
+-----------------------------------
+
+News ------------------------------
+
+Hi my friend
+something else happened
+on the strit next to main
+Batumi, 29/12/2023, 01:20
+-----------------------------------
+
+News ------------------------------
+Hello this is news
+Batumi, 02/01/2024, 22:16
+-----------------------------------
+
+News ------------------------------
+hello news
+Batumi, 02/01/2024, 22:28
+-----------------------------------
+
+News ------------------------------
+abra cadapra news
+batui, 02/01/2024, 22:50
+-----------------------------------
+
+AD --------------------------------
+my first ad
+('Actual until: 1999-10-10', 8850, 'days left')
+-----------------------------------
+
+AD --------------------------------
+my first ad
+('Actual until: 2024-01-03', -1, 'days left')
+-----------------------------------
+
+AD --------------------------------
+my second ad
+('Actual until: 2024-01-031', ' days left')
+-----------------------------------
+
+AD --------------------------------
+my third ad
+Actual until: 2024-01-03 1 days left
+-----------------------------------
+
+Weather ---------------------------
+The weather broadcast is brought by inacurate scientists
++21 expected today
+Overall the weather is bad
+-----------------------------------
+
